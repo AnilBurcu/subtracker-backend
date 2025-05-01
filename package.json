@@ -19,7 +19,8 @@
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.16.0",
     "mongoose": "^8.14.0",
-    "morgan": "~1.9.1"
+    "morgan": "~1.9.1",
+    "nodemailer": "^6.10.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.1",
